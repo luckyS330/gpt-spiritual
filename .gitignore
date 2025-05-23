@@ -25,21 +25,17 @@ myenv/
 venv/
 env/
 ENV/
-.env
 .venv
 env.bak/
 venv.bak/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 .DS_Store
 
 # Project specific
-.env
-.env.local
 .env.*.local
 *.log
 .pinecone/
@@ -67,3 +63,5 @@ wheels/
 .installed.cfg
 *.egg
 pdfs/
+config.bat
+node_modules
